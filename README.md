@@ -3,3 +3,6 @@ Código en Arduino para el control de 4 servos en función de un brazo, también
 
 # Desarrollo
 Para la estimación de material, construcción y ejecución es de suma importancia darle un fuerte agradecimiento a [Construye Fácil](https://youtube.com/@construyefacil?si=d0X6hGklhITC6WKE)
+
+A continuacion, unas imagenes del proyecto:
+
