@@ -17,3 +17,5 @@ Con la finalidad de transporar los objetos que agarraria el brazo hasta una posi
 Como se observa en la imagen, la banda integra un sensor de color TCS3200, esto con el fin de que la banda se detenga cuando detecte un objeto en la posicion deseada.
 
 # Video-tutoriales
+
+[![Alt text](https://img.youtube.com/vi/7t7-bZ4KnVc/0.jpg)](https://www.youtube.com/watch?v=7t7-bZ4KnVc)
