@@ -8,3 +8,6 @@ Para la estimación de material, construcción y ejecución es de suma importanc
 
 A continuacion, unas imagenes del proyecto:
 
+Con un movimiento limitado, se logro recrar un brazo con hombro, codo, cintura y pinza de agarre
+![Image](https://github.com/Juancho-jebq/Brazo-robotico-con-banda-trasportadora-en-Arduino/blob/be6a9dc47f9f292d49b24ca145a76044b0ed579b/Images/3.jpg)
+
