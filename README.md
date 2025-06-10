@@ -13,3 +13,7 @@ Con un movimiento limitado, se logro recrar un brazo con hombro, codo, cintura y
 
 Con la finalidad de transporar los objetos que agarraria el brazo hasta una posicion segura de sun rango de alcance, se contruye su respectiva banda transportadora
 ![Image](https://github.com/Juancho-jebq/Brazo-robotico-con-banda-trasportadora-en-Arduino/blob/7ee7cbdfd962c6ebeb8633b067a652d5d6a096a7/Images/4.jpg)
+
+Como se observa en la imagen, la banda integra un sensor de color TCS3200, esto con el fin de que la banda se detenga cuando detecte un objeto en la posicion deseada.
+
+# Video-tutoriales
