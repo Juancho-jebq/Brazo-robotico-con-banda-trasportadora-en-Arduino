@@ -19,3 +19,5 @@ Como se observa en la imagen, la banda integra un sensor de color TCS3200, esto 
 # Video-tutoriales
 
 [![Alt text](https://img.youtube.com/vi/7t7-bZ4KnVc/0.jpg)](https://www.youtube.com/watch?v=7t7-bZ4KnVc)
+[![Alt text](https://img.youtube.com/vi/f8j5goBDJTM&t=434s/0.jpg)](https://www.youtube.com/watch?v=f8j5goBDJTM&t=434s)
+[![Alt text](https://img.youtube.com/vi/PjL9drjZAQU&t=391s/0.jpg)](https://www.youtube.com/watch?v=PjL9drjZAQU&t=391s)
