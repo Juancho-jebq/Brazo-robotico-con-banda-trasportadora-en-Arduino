@@ -21,3 +21,5 @@ Como se observa en la imagen, la banda integra un sensor de color TCS3200, esto 
 [![Alt text](https://i.ytimg.com/vi/7t7-bZ4KnVc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlGEVhkSH4b269xgtZtIdeUwpvQw)](https://www.youtube.com/watch?v=7t7-bZ4KnVc)
 [![Alt text](https://i.ytimg.com/vi/f8j5goBDJTM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD0WItskKvo00bVRp0dSE4B5TPFpw)](https://www.youtube.com/watch?v=f8j5goBDJTM&t=434s)
 [![Alt text](https://i.ytimg.com/vi/PjL9drjZAQU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtiJBOpCGfTfBftbIdtFELhDPoqA)](https://www.youtube.com/watch?v=PjL9drjZAQU&t=391s)
+
+# Certificado de participacion
