@@ -23,3 +23,4 @@ Como se observa en la imagen, la banda integra un sensor de color TCS3200, esto 
 [![Alt text](https://i.ytimg.com/vi/PjL9drjZAQU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtiJBOpCGfTfBftbIdtFELhDPoqA)](https://www.youtube.com/watch?v=PjL9drjZAQU&t=391s)
 
 # Certificado de participacion
+![Image](https://github.com/Juancho-jebq/Brazo-robotico-con-banda-trasportadora-en-Arduino/blob/e0c67381a2cdd28fd6bf3d37fb7a555f35e3e1ad/Images/C.jpg)
