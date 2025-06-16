@@ -75,7 +75,6 @@ void loop() {
     digitalWrite(relayPin, LOW);
   }
 
-  // --- NUEVA ASIGNACION DE JOYSTICKS ---
   int v1x = applyDeadZone(analogRead(joy1X)); // A1 → cintura
   int v1y = applyDeadZone(analogRead(joy1Y)); // A2 → pinza
   int v2x = applyDeadZone(analogRead(joy2X)); // A3 → codo
